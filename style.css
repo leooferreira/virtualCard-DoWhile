@@ -24,7 +24,7 @@ body {
 main {
     background: url(images/background.svg) no-repeat;
     background-position: center;
-    width: 100%;
+    width: 375px;
     height: 812px;
 }
 
